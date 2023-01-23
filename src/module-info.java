@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kuras
+ *
+ */
+module afpa {
+}
