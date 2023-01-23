@@ -1,5 +1,8 @@
 package Hotel;
 
+
+
+//commentaire
 public class chambre {
 // ############################################### attribus ##############################################
     private int nbPersonne;
